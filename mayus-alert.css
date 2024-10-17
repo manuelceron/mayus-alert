@@ -1,0 +1,9 @@
+.color-warning {
+    color: red;
+    font-size: 0.9em;
+    margin-left: 10px;
+}
+
+.span-mayus-alert {
+    display: none;
+}
